@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#dustin-anderson-cover {
+  background-image: url("http://imgur.com/ns3jI3e.jpg");
+}
+
+#dustin-anderson-card {
+  background-image: url("http://i.imgur.com/mJrMJmS.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
